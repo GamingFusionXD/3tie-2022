@@ -55,5 +55,3 @@ class Waz():
             zmienna2=300
         return (zmienna1,zmienna2)
     
-
-
